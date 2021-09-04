@@ -1,0 +1,69 @@
+{
+  "name": "demande-workflow",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.11.3",
+    "@material-ui/icons": "^4.11.2",
+    "@progress/kendo-licensing": "^1.1.4",
+    "@progress/kendo-react-intl": "^4.5.0",
+    "@progress/kendo-react-layout": "^4.5.0",
+    "@progress/kendo-react-listview": "^4.5.0",
+    "@progress/kendo-react-progressbars": "^4.5.0",
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.5",
+    "@testing-library/user-event": "^12.8.3",
+    "axios": "^0.21.1",
+    "bootstrap": "^4.6.0",
+    "dateformat": "^4.5.1",
+    "draft-convert": "^2.1.11",
+    "draft-js": "^0.11.7",
+    "draft-js-import-html": "^1.4.1",
+    "draftjs-to-html": "^0.9.1",
+    "emailjs-com": "^2.6.4",
+    "html-to-draftjs": "^1.5.0",
+    "material-ui-dropzone": "^3.5.0",
+    "mdbreact": "^5.0.1",
+    "react": "^17.0.1",
+    "react-bootstrap": "^1.5.2",
+    "react-cookie": "^4.0.3",
+    "react-datepicker": "^3.6.0",
+    "react-dom": "^17.0.1",
+    "react-draft-wysiwyg": "^1.14.7",
+    "react-froala-wysiwyg": "^3.2.7",
+    "react-google-login": "^5.2.2",
+    "react-icons": "^4.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "react-select": "^4.3.0",
+    "reactstrap": "^8.9.0",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^2.0.3",
+    "styled-components": "^5.2.1",
+    "web-vitals": "^1.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
